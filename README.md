@@ -146,6 +146,7 @@ To enable npm publishing:
      - **Repository**: your-repo-name
      - **Workflow filename**: `release-please.yml`
      - **Environment**: `npm`
+     - **Allowed actions**: select **Allow npm publish** only
 
 4. **Create GitHub Environment**:
 
