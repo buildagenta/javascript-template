@@ -27,16 +27,16 @@
         "keyword2",
         "keyword3"
     ],
-    "author": "A2A Net <hello@a2anet.com>",
+    "author": "Agenta <hello@buildagenta.com>",
     "license": "Apache-2.0",
     "repository": {
         "type": "git",
-        "url": "https://github.com/A2ANet/javascript-template.git"
+        "url": "https://github.com/buildagenta/javascript-template.git"
     },
     "bugs": {
-        "url": "https://github.com/A2ANet/javascript-template/issues"
+        "url": "https://github.com/buildagenta/javascript-template/issues"
     },
-    "homepage": "https://github.com/A2ANet/javascript-template#readme",
+    "homepage": "https://github.com/buildagenta/javascript-template#readme",
     "devDependencies": {
         "@biomejs/biome": "^1.9.0",
         "@types/bun": "latest",
